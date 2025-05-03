@@ -6,19 +6,7 @@ Use at your own risk.
 A tool for students in Australian NSW Public schools to bypass blocked sites and access them.
 
 **Fast, interactive DNS switching tool for Windows with real-time interface scanning, terminal UI, and safety-first restoration.**
- /$$$$$$$  /$$   /$$  /$$$$$$   /$$$$$$                               
-| $$__  $$| $$$ | $$ /$$__  $$ /$$__  $$                              
-| $$  \ $$| $$$$| $$| $$  \__/| $$  \__/ /$$$$$$$   /$$$$$$   /$$$$$$ 
-| $$  | $$| $$ $$ $$|  $$$$$$ |  $$$$$$ | $$__  $$ |____  $$ /$$__  $$
-| $$  | $$| $$  $$$$ \____  $$ \____  $$| $$  \ $$  /$$$$$$$| $$  \ $$
-| $$  | $$| $$\  $$$ /$$  \ $$ /$$  \ $$| $$  | $$ /$$__  $$| $$  | $$
-| $$$$$$$/| $$ \  $$|  $$$$$$/|  $$$$$$/| $$  | $$|  $$$$$$$| $$$$$$$/
-|_______/ |__/  \__/ \______/  \______/ |__/  |__/ \_______/| $$____/ 
-                                                            | $$      
-                                                            | $$      
-                                                            |__/  
 
----
 
 ## 📦 Features
 
