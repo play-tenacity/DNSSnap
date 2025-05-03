@@ -49,7 +49,7 @@ you have to replace <yourusername> with your real username and this is only a lo
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/DNSSnap.git
+git clone https://github.com/play-tenacity/DNSSnap
 cd DNSSnap
 python DNSSnap.py
 
