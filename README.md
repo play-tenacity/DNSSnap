@@ -32,12 +32,19 @@ A tool for students in Australian NSW Public schools to bypass blocked sites and
 - Administrator privileges
 Watch this video on how to get administrator privleges on the school pc
 https://www.youtube.com/shorts/NhJoVsSgTRE
-This tutorial may work or not depending on if the School PC has a password for Troubleshooting during startup
+This tutorial may work or not depending on if the School PC has a password for Troubleshooting during startup|
+Additional notes and credits:
+The tutorial is not made by me
+Also, when the person types in 
+control userpassword2
+replace it with
+net localgroup Administrators <yourusername> /add
+
+you have to replace <yourusername> with your real username and this is only a local administrator account(install software, make changes to computer, etc) and not a domain level one(edit user passwords, unblock and block sites, etc).
+
 ---
 ## Note
  note that the bootup info is not real, it is only to make you seem 'cool' and is completely unfunctional(intentionaly)
-
-Please
 
 ## 🚀 Installation
 
